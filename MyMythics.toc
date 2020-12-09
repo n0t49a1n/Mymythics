@@ -1,0 +1,11 @@
+## Interface: 90002
+## Title: MyMythics-1.0.2.2
+## Notes: A simple add-on for displaying the status of Mythics
+## Author: n0t49a1n
+## Version: 1.0.2.2
+## SavedVariables: MyMythics
+##Libs\Libs.xml
+Libs.xml
+MyMythics.lua
+
+
